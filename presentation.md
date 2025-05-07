@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 backgroundColor: #fff
-header: "Go言語で学ぶテスト駆動筋肉開発"
+header: "Go言語で学ぶテスト駆動(筋肉)開発"
 style: |
   section {
     font-size: 28px;
@@ -28,7 +28,7 @@ style: |
 
 <!-- タイトルスライド -->
 
-# Go 言語で学ぶテスト駆動筋肉開発
+# Go 言語で学ぶテスト駆動(筋肉)開発
 
 <style scoped>
 h1 {
@@ -173,7 +173,7 @@ ul {
 .container {
   display: flex;
   margin-top: 20px;
-  height: 380px;
+  height: 400px;
 }
 .column {
   flex: 1;
@@ -184,16 +184,16 @@ ul {
 .title {
   text-align: center;
   font-weight: bold;
-  padding: 8px;
+  padding: 10px;
   border-radius: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .muscle-title { background-color: rgba(255, 99, 71, 0.3); }
 .dev-title { background-color: rgba(255, 99, 71, 0.3); }
 .point {
   background-color: #f8f8f8;
-  padding: 8px;
-  margin-bottom: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
   border-left: 4px solid #ff6347;
   flex: 1;
 }
@@ -202,8 +202,8 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 22px;
-  margin: 0 8px;
+  font-size: 24px;
+  margin: 0 10px;
 }
 </style>
 
@@ -241,7 +241,7 @@ ul {
 .container {
   display: flex;
   margin-top: 20px;
-  height: 380px;
+  height: 400px;
 }
 .column {
   flex: 1;
@@ -252,16 +252,16 @@ ul {
 .title {
   text-align: center;
   font-weight: bold;
-  padding: 8px;
+  padding: 10px;
   border-radius: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .muscle-title { background-color: rgba(144, 238, 144, 0.3); }
 .dev-title { background-color: rgba(144, 238, 144, 0.3); }
 .point {
   background-color: #f8f8f8;
-  padding: 8px;
-  margin-bottom: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
   border-left: 4px solid #32cd32;
   flex: 1;
 }
@@ -270,8 +270,8 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 22px;
-  margin: 0 8px;
+  font-size: 24px;
+  margin: 0 10px;
 }
 </style>
 
@@ -309,7 +309,7 @@ ul {
 .container {
   display: flex;
   margin-top: 20px;
-  height: 380px;
+  height: 400px;
 }
 .column {
   flex: 1;
@@ -320,16 +320,16 @@ ul {
 .title {
   text-align: center;
   font-weight: bold;
-  padding: 8px;
+  padding: 10px;
   border-radius: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .muscle-title { background-color: rgba(135, 206, 235, 0.3); }
 .dev-title { background-color: rgba(135, 206, 235, 0.3); }
 .point {
   background-color: #f8f8f8;
-  padding: 8px;
-  margin-bottom: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
   border-left: 4px solid #4682b4;
   flex: 1;
 }
@@ -338,8 +338,8 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 22px;
-  margin: 0 8px;
+  font-size: 24px;
+  margin: 0 10px;
 }
 </style>
 
@@ -593,7 +593,7 @@ li {
 - 🔄 **小さな繰り返し**で安全かつ効率的に筋力向上を図れる
 - 📈 **段階的な進歩**により挫折リスクを減らし、継続的な取り組みを促進
 - 🛠️ **特定の問題点**に対して効果的な対処法を見つけやすくなる
-- 🧠 **技術者の思考法**を活かした論理的なトレーニング設計が可能
+- 🧠 **エンジニアの思考法**を活かした論理的なトレーニング設計が可能
 
 ---
 
